@@ -22,37 +22,37 @@
 
 > 1. 我有自己的[B站](https://space.bilibili.com/1156879724)，出过第一个动漫混剪(剪得就是一坨，别去看)；
 >
-> ![QQ_1734793200569](E:\E盘\Max\高级文档\Code\Github工作区\Naixer.github.io\index.assets\QQ_1734793200569.png)
+> <img src="index.assets\QQ_1734793200569.png" alt="QQ_1734793200569"  />
 >
-> ![QQ_1734794060108](E:\E盘\Max\高级文档\Code\Github工作区\Naixer.github.io\index.assets\QQ_1734794060108.png)
+> ![QQ_1734794060108](index.assets\QQ_1734794060108.png)
 >
 > 2. 有自己做的最成功的[软件](https://www.jianpian.com)(可惜现在已不属于我)；
 >
-> ![QQ_1734793348451](E:\E盘\Max\高级文档\Code\Github工作区\Naixer.github.io\index.assets\QQ_1734793348451.png)
+> ![QQ_1734793348451](index.assets\QQ_1734793348451.png)
 >
 > 3. 有自己整理的精品软件库，[安卓端](https://www.123865.com/s/0cR0Vv-4jV2H?提取码:U7BJ)(提取码:U7BJ) || [PC端](https://www.123865.com/s/0cR0Vv-yVV2H?提取码:rHee)(提取码:rHee)；
 >
-> ![QQ_1734793425989](E:\E盘\Max\高级文档\Code\Github工作区\Naixer.github.io\index.assets\QQ_1734793425989.png)
+> ![QQ_1734793425989](index.assets\QQ_1734793425989.png)
 >
 > 4. 有自己的[Github官网](https://github.com/Naixer)，也就是这个网站；
 >
-> ![QQ_1734793634586](E:\E盘\Max\高级文档\Code\Github工作区\Naixer.github.io\index.assets\QQ_1734793634586.png)
+> ![QQ_1734793634586](index.assets\QQ_1734793634586.png)
 >
 > 5. 有收到过第一封省级电子邀请函；
 >
->    <img src="E:\E盘\Max\高级文档\Code\Github工作区\Naixer.github.io\index.assets\40D21102F065CA73B21D60961EC2ACA0.png" alt="40D21102F065CA73B21D60961EC2ACA0" style="zoom: 25%;" />
+>    <img src="index.assets/40D21102F065CA73B21D60961EC2ACA0.png" style="zoom: 25%;" />
 >
->    <img src="E:\E盘\Max\高级文档\Code\Github工作区\Naixer.github.io\index.assets\4A5FD8A2545313DA774EB1F16A11B56B.png" alt="4A5FD8A2545313DA774EB1F16A11B56B" style="zoom:25%;" />
+>    <img src="index.assets\4A5FD8A2545313DA774EB1F16A11B56B.png" alt="4A5FD8A2545313DA774EB1F16A11B56B" style="zoom:25%;" />
 >
->    <img src="E:\E盘\Max\高级文档\Code\Github工作区\Naixer.github.io\index.assets\7ED1AE2A32B144BD60C5E78E738642FD.png" alt="7ED1AE2A32B144BD60C5E78E738642FD" style="zoom:25%;" />
+>    <img src="index.assets\7ED1AE2A32B144BD60C5E78E738642FD.png" alt="7ED1AE2A32B144BD60C5E78E738642FD" style="zoom:25%;" />
 >
 > 6. 有第一张出给比我大十几岁的一群人做的电子试卷；
 >
->    ![QQ_1734795075197](E:\E盘\Max\高级文档\Code\Github工作区\Naixer.github.io\index.assets\QQ_1734795075197.png)
+>    ![QQ_1734795075197](index.assets\QQ_1734795075197.png)
 >
 > 7. 有第一个属于自己的[频道](https://pd.qq.com/s/bn1osniqt)，发自己的帖；
 >
->    ![QQ_1734795195120](E:\E盘\Max\高级文档\Code\Github工作区\Naixer.github.io\index.assets\QQ_1734795195120.png)
+>    ![QQ_1734795195120](index.assets\QQ_1734795195120.png)
 >
 >    - **或许这些都是再平常不过的小事，但对我来说是满满的成就感。**
 
