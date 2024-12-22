@@ -12,7 +12,7 @@ Web前端个人网站，网页个人网站模版，HTML&CSS&JS制作个人网站
 
 直接运行index.html文件
 
-+++
+---
 
 ### 截图预览
 
@@ -27,4 +27,4 @@ Web前端个人网站，网页个人网站模版，HTML&CSS&JS制作个人网站
 
 ### 联系我：远程调试/二次开发/毕设
 
-![远程调试/二次开发/毕设](E:\E盘\Max\桌面\web-resume-resume-master\index.assets\QQ_1734793200569.png)
+![远程调试/二次开发/毕设](index.assets\QQ_1734793200569.png)
